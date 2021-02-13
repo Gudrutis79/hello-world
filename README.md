@@ -1,2 +1,3 @@
 # hello-world
-Dissertation BBK
+Dissertation BBK.
+I am keen to create neurofeedback protocols. 
